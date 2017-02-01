@@ -1,0 +1,7 @@
+Mingw32 is needed to build the project:
+
+  <path_to_mingw32>\bin\gcc -o ssebr2.exe *.c
+
+For ease of development, the project can be imported into Eclipse CDT.
+
+NOTE: Due to the 32-bit porttalk driver, the program will work only on 32-bit Windows.
